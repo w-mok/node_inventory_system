@@ -1,0 +1,23 @@
+[
+    {
+          "name": "The Land Before Time",
+          "genre": "Fantasy",
+          "rating": 7,
+          "id": 1,
+          "explicit": false
+      },
+      {
+          "name": "Jurassic Park",
+          "genre": "Science Fiction",
+          "rating": 9,
+          "id": 2,
+          "explicit": true
+      },
+    {
+          "name": "Ice Age: Dawn of the Dinosaurs ",
+          "genre": "Action/Romance",
+          "rating": 5,
+          "id": 3,
+          "explicit": false
+      }
+  ]
