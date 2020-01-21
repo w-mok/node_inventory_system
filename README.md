@@ -1,4 +1,6 @@
-# Treez CRUD REST API Assignment
+# CRUD Inventory System using Node.JS, Koa, Knex, and Postgresql
+
+*Please read requirements.txt to understand the scope of the project
 
 <b>Prerequisites:</b>
 - Docker
