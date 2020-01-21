@@ -21,7 +21,7 @@ List of API calls to the app to perform certain actions
 - Insomnia
 - cURL
 
-<b>Inventories:</b>
+<b>Inventories:</b><br>
 GET: Read all inventory items:
 - http://localhost:1337/api/v1/inventories/ <br>
 
@@ -52,7 +52,7 @@ Example for the request body:
 }
 ```  
 
-<b>Orders:</b>
+<b>Orders:</b><br>
 GET: Read all orders records:
 - http://localhost:1337/api/v1/orders/
 
